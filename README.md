@@ -68,7 +68,7 @@ Addr: Instruction
 6. Load value from RAM into R1.
 7. Perform logical AND between R0 and R1, store result in R2.
 8. Write value from R2 to RAM at specified address.
-9. Jump back to address 0x00 to repeat the process.
+9. Jump back to address 0x00 to repeat the process
 
 ## Project Files
 
